@@ -1,0 +1,42 @@
+/* restart */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+}
+
+/* styling */
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    margin: 50px 10px 0;
+}
+
+h2 {
+    font-size: 2rem;
+    margin: 0 0 30px;
+}
+
+img {
+    width: 350px;
+    border: black 2px solid;
+    margin-bottom: 20px;
+}
+
+.columns {
+    display: flex;
+    text-align: left;    
+    justify-content: center;
+}
+
+h3 {
+    font-size: 1.8rem;
+    text-align: center;    
+}
+
+ul {
+    font-size: 2rem;
+    margin: 10px 50px;
+    /* list-style-type: disc; */
+}
